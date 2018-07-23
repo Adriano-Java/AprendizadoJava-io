@@ -1,0 +1,4 @@
+Arquivo de teste.
+Lendo linhas.
+Encerrando o teste.
+Tudo certo!
